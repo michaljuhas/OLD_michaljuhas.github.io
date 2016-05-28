@@ -1,75 +1,18 @@
-<!doctype html>
-<html>
-  <head>
-    <meta charset="utf-8">
-    <meta http-equiv="X-UA-Compatible" content="chrome=1">
-    <title>Michal Juhas by michaljuhas</title>
-    <link rel="stylesheet" href="stylesheets/styles.css">
-    <link rel="stylesheet" href="stylesheets/github-dark.css">
-    <script src="https://ajax.googleapis.com/ajax/libs/jquery/1.7.1/jquery.min.js"></script>
-    <script src="javascripts/main.js"></script>
-    <!--[if lt IE 9]>
-      <script src="//html5shiv.googlecode.com/svn/trunk/html5.js"></script>
-    <![endif]-->
-    <meta name="viewport" content="width=device-width, initial-scale=1, user-scalable=no">
+---
+layout: default
+---
 
-  </head>
-  <body>
+<div class="posts">
+  {% for post in site.posts %}
+    <article class="post">
 
-      <header>
-        <h1>Michal Juhas</h1>
-        <p>CTO &amp; co-founder @ HotelQuickly</p>
-      </header>
+      <h1><a href="{{ site.baseurl }}{{ post.url }}">{{ post.title }}</a></h1>
 
-      <div id="banner">
-        <span id="logo"></span>
+      <div class="entry">
+        {{ post.excerpt }}
+      </div>
 
-        <a href="https://th.linkedin.com/in/michaljuhas" class="button fork"><strong>View On Linkedin</strong></a>
-      </div><!-- end banner -->
-
-    <div class="wrapper">
-      <nav>
-        <ul><a href="/">Home</a></ul>
-        <ul><a href="/sql-course.html">SQL course</a></ul>
-        <ul><a href="/slack.html">Slack group</a></ul>
-        <ul><a href="/contact.html">Contact</a></ul>
-      </nav>
-      <section>
-        <h3>
-<a id="welcome" class="anchor" href="/" aria-hidden="true"><span aria-hidden="true" class="octicon octicon-link"></span></a>About me</h3>
-
-<p>As a CTO and co-founder of HotelQuickly I am responsible for product development and customer service. In the Product & Engineering team we have ~25 people and <a href="https://github.com/HotelQuickly/WeAreHiring/">»WE ARE HIRING!«</a>.</p>
-
-<p>Back in Europe I co-founded a start-up which won a national contest called "Idea of The Year" and created a big community of book lovers. We had about 200.000 monthly visitors back then. Prior to that I was working as an IT consultant for about 4 years, mostly building data warehouse for banks and insurance companies.</p>
-
-<p>While being a Toastmaster for almost 4 years back in Prague, I was a passionate leader of Bohemian Toastmasters (taking almost all roles including Club President), co-founded a new club in Prague (Prague Business Toastmasters) and also organized events like Toastmasters Residential Weekend for ~100 people.</p>
-
-<h3>
-<a id="contact" class="anchor" href="#contact" aria-hidden="true"><span aria-hidden="true" class="octicon octicon-link"></span></a>Contact</h3>
-
-<p>Having trouble with Pages? Check out our <a href="https://help.github.com/pages">documentation</a> or <a href="https://github.com/contact">contact support</a> and we’ll help you sort it out.</p>
-
-        <h3>My recent tweets</h3>
-        <a class="twitter-timeline" href="https://twitter.com/juhasm" data-chrome="transparent" data-widget-id="736417549311565824">Tweets by @juhasm</a>
-        <script>!function(d,s,id){var js,fjs=d.getElementsByTagName(s)[0],p=/^http:/.test(d.location)?'http':'https';if(!d.getElementById(id)){js=d.createElement(s);js.id=id;js.src=p+"://platform.twitter.com/widgets.js";fjs.parentNode.insertBefore(js,fjs);}}(document,"script","twitter-wjs");</script>
-        <br style="clear: both;" />
-      </section>
-
-      <footer>
-        <p><small>Hosted on GitHub Pages</small></p>
-      </footer>
-    </div>
-    <!--[if !IE]><script>fixScale(document);</script><![endif]-->
-    
-  <script>
-  (function(i,s,o,g,r,a,m){i['GoogleAnalyticsObject']=r;i[r]=i[r]||function(){
-  (i[r].q=i[r].q||[]).push(arguments)},i[r].l=1*new Date();a=s.createElement(o),
-  m=s.getElementsByTagName(o)[0];a.async=1;a.src=g;m.parentNode.insertBefore(a,m)
-  })(window,document,'script','https://www.google-analytics.com/analytics.js','ga');
-
-  ga('create', 'UA-78441662-1', 'auto');
-  ga('send', 'pageview');
-  </script>
-
-  </body>
-</html>
+      <a href="{{ site.baseurl }}{{ post.url }}" class="read-more">Read More</a>
+    </article>
+  {% endfor %}
+</div>
