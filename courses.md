@@ -6,6 +6,8 @@ permalink: /courses/
 
 As I'm passionate about learning and teaching, I created a course on Udemy to help others learn advanced SQL techniques.
 
-## Practice advanced SQL with MySQL 5.7+
+## Advanced SQL with MySQL 5.7+
 
-![Udemy course: Practice advanced SQL with MySQL]({{ site.baseurl }}/images/cover-image.png)
+See the course [Practice advanced SQL with MySQL](https://www.udemy.com/practice-advanced-sql-with-mysql/) on Udemy.com.
+
+<iframe width="560" height="315" src="https://www.youtube.com/embed/RYse_GGyk24" frameborder="0" allowfullscreen></iframe>
