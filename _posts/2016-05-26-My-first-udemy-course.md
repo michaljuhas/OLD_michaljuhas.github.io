@@ -1,5 +1,6 @@
 ---
 layout: post
+comments: true
 title: My first Udemy course just went live
 ---
 
