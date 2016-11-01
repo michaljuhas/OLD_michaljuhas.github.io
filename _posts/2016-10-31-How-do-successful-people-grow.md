@@ -1,7 +1,7 @@
 ---
 layout: post
 comments: true
-title: Highlights from John Maxwell's book: How Successful People Grow
+title: Highlights from John Maxwell's book - How Successful People Grow
 ---
 
 I just finished reading [How Successful People Grow](https://www.goodreads.com/book/show/18453291-how-successful-people-grow) from John Maxwell.
