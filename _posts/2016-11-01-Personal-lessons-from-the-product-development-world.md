@@ -2,6 +2,7 @@
 layout: post
 comments: true
 title: Personal lessons from the product world
+tags: personal-growth
 ---
 
 [What product development teaches us about self-improvement](https://techcrunch.com/2016/10/29/what-product-development-teaches-us-about-self-improvement/?utm_source=mybridge&utm_medium=web&utm_campaign=read_more)?
