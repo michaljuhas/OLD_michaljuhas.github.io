@@ -5,10 +5,10 @@ title: State of the machine intelligence
 tags: artificial-intelligence
 ---
 
-2 very interesting articles about the machine learning:
+Found 2 very interesting articles about the machine learning:
 
-1. **Part 1:** [Humanity’s Extinction Event Is Coming](https://medium.com/the-mission/humanitys-extinction-event-is-coming-c0f84f1803f)
-2. **Part 2:** [Self-Driving Cars are Hurtling Towards an AI Brick Wall](https://medium.com/the-mission/self-driving-cars-are-hurtling-towards-an-ai-brick-wall-932e16bd7777)
+* **Part 1:** [Humanity’s Extinction Event Is Coming](https://medium.com/the-mission/humanitys-extinction-event-is-coming-c0f84f1803f)
+* **Part 2:** [Self-Driving Cars are Hurtling Towards an AI Brick Wall](https://medium.com/the-mission/self-driving-cars-are-hurtling-towards-an-ai-brick-wall-932e16bd7777)
 
 > Deep learning is going to hit a brick wall.
 
