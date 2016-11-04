@@ -2,7 +2,7 @@
 layout: post
 comments: true
 title: State of the machine intelligence
-tags: artificial-intelligence
+tags: artificial-intelligence trends
 ---
 
 Found 2 very interesting articles about the machine learning:
