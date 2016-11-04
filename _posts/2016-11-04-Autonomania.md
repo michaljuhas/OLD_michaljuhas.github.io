@@ -18,7 +18,7 @@ Consumers will embrace the brands that free them up from tedious tasks and allow
 Creativity, humankind's proudest trait, **is being automated.**
 
 [Recognition](http://www.tate.org.uk/whats-on/tate-britain/exhibition/recognition) is an artificial intelligence program that won a contest held by UK gallery the Tate and Microsoft. It matches photos of current events with comparable artworks from the gallery's extensive collection.
-
+<!--excerpt-->
 The [IntelligentX Brewing](http://intelligentx.ai/) uses a combination of human feedback and an automated recipe system to master the art of brewing beer.
 
 [Mubert](http://mubert.com/en/) continuously produces music in real time. An algorithm creates a unique stream based on the laws of musical theory, mathematics, and creative experience.
