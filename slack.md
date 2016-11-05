@@ -2,6 +2,7 @@
 layout: page
 title: Slack group
 permalink: /slack/
+description: Join me on Slack if you have any questions about any of my SQL courses.
 ---
 
 Join me on Slack if you have any questions about any of my SQL courses. [Register your email here][slack-inviter]{:target="_blank"} to receive an invite and then login to [data-crew.slack.com][data-crew]{:target="_blank"}.

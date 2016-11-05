@@ -2,6 +2,7 @@
 layout: page
 title: Tags
 permalink: /tags/
+description: List of the tags & topics covered on my blog.
 ---
 
 <!-- Get the tag name for every tag on the site and set them

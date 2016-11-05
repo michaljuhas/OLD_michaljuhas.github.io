@@ -2,14 +2,25 @@
 layout: page
 title: About me
 permalink: /about/
+description: As a CTO and co-founder of HotelQuickly I am responsible for product development and IT.
 ---
 
-As a CTO and co-founder of HotelQuickly I am responsible for product development and customer service. In the Product & Engineering team we have ~25 people and [»WE ARE HIRING!«](https://github.com/HotelQuickly/WeAreHiring/).
+As a CTO and co-founder of [HotelQuickly](http://www.hotelquickly.com), I am responsible for product development and IT.
 
-Back in Europe I co-founded a start-up which won a national contest called "Idea of The Year" and created a big community of book lovers. We had about 200.000 monthly visitors back then. Prior to that I was working as an IT consultant for about 4 years, mostly building data warehouse for banks and insurance companies.
+I'm passionate about:
 
-While being a Toastmaster for almost 4 years back in Prague, I was a passionate leader of Bohemian Toastmasters (taking almost all roles including Club President), co-founded a new club in Prague (Prague Business Toastmasters) and also organized events like Toastmasters Residential Weekend for ~100 people.
+* Startups
+* Productivity
+* Personal Growth
+* Product Management
+* Software Development
+* Internet of Things
 
+Back in Europe, I co-founded a start-up BookFan which won a national contest _Idea of The Year 2011_ and created a community of book lovers with 200k MAU.
+
+I was also working as an IT consultant for four years, mostly building data warehouses for banks and insurance companies. Since then I'm passionate about big data & data analysis, too!
+
+As a passionate [Toastmaster](http://www.toastmasters.org/), I was a leader of [Bohemian Toastmasters](http://bohemiantoastmasters.org/) where I took almost all roles including the Club President. I also co-founded a new club [Prague Business Toastmasters](http://www.praguebusinesstoastmasters.com) and organized many events, including [Toastmasters Residential Weekend 2014](http://www.praguetoastmasters.cz/residential-weekend) for 100+ people.
 
 <a class="twitter-timeline" href="https://twitter.com/juhasm" data-chrome="transparent" data-widget-id="736417549311565824"></a>
 <script>!function(d,s,id){var js,fjs=d.getElementsByTagName(s)[0],p=/^http:/.test(d.location)?'http':'https';if(!d.getElementById(id)){js=d.createElement(s);js.id=id;js.src=p+"://platform.twitter.com/widgets.js";fjs.parentNode.insertBefore(js,fjs);}}(document,"script","twitter-wjs");</script>

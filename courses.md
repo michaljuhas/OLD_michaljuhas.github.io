@@ -2,6 +2,7 @@
 layout: page
 title: Online courses
 permalink: /courses/
+description: As I'm passionate about learning and teaching, I created a course on Udemy to help others learn advanced SQL techniques.
 ---
 
 As I'm passionate about learning and teaching, I created a course on Udemy to help others learn advanced SQL techniques.
