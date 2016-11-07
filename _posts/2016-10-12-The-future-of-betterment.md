@@ -1,7 +1,7 @@
 ---
 layout: post
 comments: true
-title: Asian trends for 2016
+title: The future of betterment
 tags: trends
 ---
 
