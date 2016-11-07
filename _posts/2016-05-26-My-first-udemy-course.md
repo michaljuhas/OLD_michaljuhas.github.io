@@ -12,4 +12,6 @@ Today I release my first course on Udemy: [Practice advanced SQL with MySQL](htt
 
 If you need some help, join my [Slack group]({{ site.baseurl }}/slack).
 
+<!--excerpt-->
+
 <iframe width="560" height="315" src="https://www.youtube.com/embed/RYse_GGyk24" frameborder="0" allowfullscreen></iframe>
