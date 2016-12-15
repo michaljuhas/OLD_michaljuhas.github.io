@@ -19,6 +19,13 @@ excerpt_separator: <!--excerpt-->
 # Flags below are optional
 #
 
+collections:
+  books:
+    output: true
+    title: Book highlights
+    url: /books/
+    permalink: /books/:path/
+
 # Includes an icon in the footer for each username you enter
 footer-links:
   dribbble:

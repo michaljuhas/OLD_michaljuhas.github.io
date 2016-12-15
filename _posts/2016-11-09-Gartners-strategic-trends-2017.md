@@ -54,7 +54,7 @@ Conversational systems enable people and machines to use multiple modalities (e.
 
 ## Mesh App and Service Architecture
 
-The mesh app and service architecture is a multichannel solution architecture that leverages cloud and serverless computing, containers and microservices as well as APIs and events to deliver modular, flexible and dynamic solutions.
+To get all of these online devices talking to us and to each other, they'll need IT systems that let them do this. The mesh app and service architecture is a multichannel solution architecture that leverages cloud and serverless computing, containers and microservices as well as APIs and events to deliver modular, flexible and dynamic solutions.
 
 ## Digital Technology Platforms
 
@@ -70,4 +70,4 @@ Especially with a focus on new platforms and services for IoT, AI and conversati
 
 ## Adaptive Security Architecture
 
-Security in the IoT environment is particularly challenging. The evolution of the intelligent digital mesh and digital technology platforms and application architectures means that security has to become fluid and adaptive.
+Security in the IoT environment is particularly challenging as these new smart devices can be used for evil as well as good. But soon, these smarter computers and devices will be able to learn and better protect themselves. The evolution of the intelligent digital mesh and digital technology platforms and application architectures means that security has to become fluid and adaptive.
