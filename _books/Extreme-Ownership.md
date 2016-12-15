@@ -1,8 +1,12 @@
 ---
 layout: book-review
 comments: true
-title: "Extreme Ownership: How U.S. Navy SEALs Lead and Win (Jocko Willink)"
+title: "Extreme Ownership: How U.S. Navy SEALs Lead and Win"
+author: Jocko Willink
 tags: leadership
+link_url: https://www.amazon.com/gp/product/1250067057/ref=as_li_tl?ie=UTF8&camp=1789&creative=9325&creativeASIN=1250067057&linkCode=as2&tag=juhasm-20&linkId=5a82152295d5e84fc5c3f0cfaafb0b36
+image_url: https://ws-na.amazon-adsystem.com/widgets/q?_encoding=UTF8&MarketPlace=US&ASIN=1250067057&ServiceVersion=20070822&ID=AsinImage&WS=1&Format=_SL250_&tag=juhasm-20
+
 ---
 
 I like how the authors used their own experience from Navy SEAL to demonstrate some leadership principles and methods.
