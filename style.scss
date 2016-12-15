@@ -284,12 +284,21 @@ nav {
 
   article {
     width: 45%;
+	  float: left;
   }
   h2 {
     margin: 0px;
     line-height: 1.2em;
     font-size: 110%;
   }
+	
+  br.clearBoth {
+	  clear: both;
+  }
+
+	img {
+		border: 1px solid #ddd;
+	}
 }
 
 body {
