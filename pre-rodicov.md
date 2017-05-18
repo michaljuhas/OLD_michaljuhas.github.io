@@ -11,7 +11,7 @@ layout: default
     
     VIDEO
     
-    <h2>Čo to je?<h2>
+    <h2>Čo to je?</h2>
     <ul>
       <li>Kúpili sme vám poukaz na <b>12-chodové degustčané menu</b> pre dve osoby (160 EUR) + degustačné nápojové menu pre dve osoby (2x 50 EUR).</li>
       <li>Už je to zaplatené, v reštaurácii zaplatíte s poukazom, ktorý prišiel poštou.
