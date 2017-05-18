@@ -6,7 +6,7 @@ layout: default
 
   <div class="row row--full">
     <h1>Ahojte!</h1>
-    <h2>Mame pre vas male prekvapenie :-)</h2>
+    <h2>Máme pre vás malé prekvapenie :-)</h2>
     <p>Pozrite si video, kde vám to trochu vysvetlíme:</p>
     
     VIDEO
