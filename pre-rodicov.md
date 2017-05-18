@@ -9,7 +9,7 @@ layout: default
     <h2>Máme pre vás malé prekvapenie :-)</h2>
     <p>Pozrite si video, kde vám to trochu vysvetlíme:</p>
     
-    VIDEO
+    <iframe width="853" height="480" src="https://www.youtube.com/embed/NSYW4kU9NFE?rel=0&amp;showinfo=0" frameborder="0" allowfullscreen></iframe>
     
     <h2>Čo to je?</h2>
     <ul>
