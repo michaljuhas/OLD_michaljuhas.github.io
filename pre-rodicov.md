@@ -10,6 +10,8 @@ layout: default
     <p>Pozrite si video, kde vám to trochu vysvetlíme:</p>
     
     VIDEO
+
+## Čo to je?
     
     <h2>Čo to je?</h2>
     <ul>
