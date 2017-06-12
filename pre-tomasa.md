@@ -15,7 +15,7 @@ layout: default
     
     <p>I'd like to support your desire to get connected to the best CEOs out there.</p>
     
-    <p>What can be better than to have some <b>boutique</b> community of the most inspiring CEOs? :)</p>
+    <p>What can be better than to lead a <b>boutique</b> community of the most inspiring CEOs? :)</p>
     
     <p>You can start reaching out to the TOP CEOs asking them <i>Hey, I've got a private community, wanna join?</i> :-)</p>
     
