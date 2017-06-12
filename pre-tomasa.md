@@ -25,6 +25,8 @@ layout: default
 
     <p>If you want to experiment later on, I can help you set up some dedicated Slack channel, membership site, etc.</p>
 
+<p>#PCDA - try, evaluate, continue or drop.</p>
+
   </div>
 
 </div>
