@@ -19,7 +19,9 @@ layout: default
     
     <p>You can start reaching out to the TOP CEOs asking them <i>Hey, I've got a private community, wanna join?</i> :-)</p>
     
-    <p>Go ahead: <a href="http://ceo.community/">http://ceo.community/</a>
+    <p>Go ahead: <a href="http://ceo.community/">http://ceo.community/</a> Your admin username is <b>tomas.laboutka</b> and password <b>uheAPwWalg4zy4</b>. You can administer it on <a href="http://ceo.community/wp-admin/">http://ceo.community/wp-admin/</a>.</p>
+    
+    <p>Email <a href="tomas@ceo.community">tomas@ceo.community</a> is redirected to your gmail account.</p>
 
     <p>If you want to experiment later on, I can help you set up some dedicated Slack channel, membership site, etc.</p>
 
