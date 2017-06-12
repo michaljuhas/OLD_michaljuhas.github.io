@@ -1,5 +1,7 @@
 ---
 layout: default
+title: Happy Birthday, Tomas!
+description: A special gift coming your way.
 ---
 
 <div class="wrapper">
